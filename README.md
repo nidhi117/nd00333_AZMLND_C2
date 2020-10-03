@@ -1,7 +1,7 @@
-##__Project Oveview__
+##__Project Oveview__##
 This project was all about deploying ML models using Azure Platform. We learnt to deploy, authenticate, create and check logs, and use deployed model as the REST API.
 
-##__Key Steps__
+##__Key Steps__##
 
 
 ##__ScreenCast Recording__
